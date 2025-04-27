@@ -97,7 +97,7 @@ python bot.py
 <p align="center">
   <!-- <img src="./doc/1.png" width="32%" height="800px"/> -->
   <!-- <img src="./doc/2.png" width="32%" height="800px"/>  -->
-  <img src="./doc/3.png" width="32%" height="800px"/>
+  <img src="./doc/3.png"/>
 </p>
 
 ## 📊 API Endpoints
